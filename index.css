@@ -1,0 +1,22 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    /* border:1px solid black */
+}
+
+#nav-items > ul {
+    display: flex;
+}
+
+ul>li{
+padding: 10px;
+margin: 10px;
+list-style-type: none;
+}
+
+#logo > img{
+    margin: 1%;
+    width:50%;
+    height: 85%;
+ 
+}
